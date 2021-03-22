@@ -1,6 +1,4 @@
-RMDS Lab competition to predict influence of various biases on the stock market
-
-Dataset
+**RMDS Lab competition to predict influence of various biases on the stock market Dataset**
 
 Folder structure is uploaded in the project. To run, fragment all the folders.
 
